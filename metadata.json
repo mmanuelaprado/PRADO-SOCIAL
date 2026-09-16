@@ -1,0 +1,6 @@
+{
+  "name": "Prado Social - CRM & Operações Comerciais",
+  "description": "Sistema interno de gestão de parceiros, leads, funil de vendas e comissões da Prado Social.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
